@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "randomgenerator MessagesExtension/MessagesViewController.swift"
+            timestampString = "582000312.01353"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "342"
+            endingLineNumber = "342"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "randomgenerator MessagesExtension/MessagesViewController.swift"
+            timestampString = "582000312.014747"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "randomgenerator_MessagesExtension.MessagesViewController.generalView.getter : Swift.Optional&lt;__C.UIView&gt;"
+                  moduleName = "randomgenerator MessagesExtension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/asaflebovic/Desktop/Tryme/Cca/randomgenerator/randomgenerator%20MessagesExtension/MessagesViewController.swift"
+                  timestampString = "581950067.128827"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "86">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "randomgenerator_MessagesExtension.MessagesViewController.generalView.setter : Swift.Optional&lt;__C.UIView&gt;"
+                  moduleName = "randomgenerator MessagesExtension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/asaflebovic/Desktop/Tryme/Cca/randomgenerator/randomgenerator%20MessagesExtension/MessagesViewController.swift"
+                  timestampString = "581950067.131276"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "106">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "randomgenerator_MessagesExtension.MessagesViewController.generalView.modify : Swift.Optional&lt;__C.UIView&gt;"
+                  moduleName = "randomgenerator MessagesExtension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/asaflebovic/Desktop/Tryme/Cca/randomgenerator/randomgenerator%20MessagesExtension/MessagesViewController.swift"
+                  timestampString = "581950067.133406"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "69">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "randomgenerator_MessagesExtension.MessagesViewController.generalView.modify : Swift.Optional&lt;__C.UIView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "randomgenerator MessagesExtension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/asaflebovic/Desktop/Tryme/Cca/randomgenerator/randomgenerator%20MessagesExtension/MessagesViewController.swift"
+                  timestampString = "581950067.135842"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "randomgenerator_MessagesExtension.MessagesViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; randomgenerator_MessagesExtension.MessagesViewController"
+                  moduleName = "randomgenerator MessagesExtension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/asaflebovic/Desktop/Tryme/Cca/randomgenerator/randomgenerator%20MessagesExtension/MessagesViewController.swift"
+                  timestampString = "581950067.138103"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "217">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "randomgenerator_MessagesExtension.MessagesViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;randomgenerator_MessagesExtension.MessagesViewController&gt;"
+                  moduleName = "randomgenerator MessagesExtension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/asaflebovic/Desktop/Tryme/Cca/randomgenerator/randomgenerator%20MessagesExtension/MessagesViewController.swift"
+                  timestampString = "581950067.139823"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "137">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "randomgenerator MessagesExtension/MessagesViewController.swift"
+            timestampString = "582000312.015066"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "randomgenerator_MessagesExtension.MessagesViewController.settingsButton.getter : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "randomgenerator MessagesExtension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/asaflebovic/Desktop/Tryme/Cca/randomgenerator/randomgenerator%20MessagesExtension/MessagesViewController.swift"
+                  timestampString = "581949878.465184"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "86">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "randomgenerator_MessagesExtension.MessagesViewController.settingsButton.setter : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "randomgenerator MessagesExtension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/asaflebovic/Desktop/Tryme/Cca/randomgenerator/randomgenerator%20MessagesExtension/MessagesViewController.swift"
+                  timestampString = "581949878.467958"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "106">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "randomgenerator_MessagesExtension.MessagesViewController.settingsButton.modify : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "randomgenerator MessagesExtension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/asaflebovic/Desktop/Tryme/Cca/randomgenerator/randomgenerator%20MessagesExtension/MessagesViewController.swift"
+                  timestampString = "581949878.470243"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "69">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "randomgenerator_MessagesExtension.MessagesViewController.settingsButton.modify : Swift.Optional&lt;__C.UIButton&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "randomgenerator MessagesExtension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/asaflebovic/Desktop/Tryme/Cca/randomgenerator/randomgenerator%20MessagesExtension/MessagesViewController.swift"
+                  timestampString = "581949878.4722871"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "randomgenerator_MessagesExtension.MessagesViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; randomgenerator_MessagesExtension.MessagesViewController"
+                  moduleName = "randomgenerator MessagesExtension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/asaflebovic/Desktop/Tryme/Cca/randomgenerator/randomgenerator%20MessagesExtension/MessagesViewController.swift"
+                  timestampString = "581949878.47435"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "321">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "randomgenerator_MessagesExtension.MessagesViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;randomgenerator_MessagesExtension.MessagesViewController&gt;"
+                  moduleName = "randomgenerator MessagesExtension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/asaflebovic/Desktop/Tryme/Cca/randomgenerator/randomgenerator%20MessagesExtension/MessagesViewController.swift"
+                  timestampString = "581949878.4760571"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "241">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "randomgenerator MessagesExtension/MessagesViewController.swift"
+            timestampString = "582000312.015371"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "randomgenerator_MessagesExtension.MessagesViewController.exitButton.getter : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "randomgenerator MessagesExtension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/asaflebovic/Desktop/Tryme/Cca/randomgenerator/randomgenerator%20MessagesExtension/MessagesViewController.swift"
+                  timestampString = "581956603.734672"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "86">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "randomgenerator_MessagesExtension.MessagesViewController.exitButton.setter : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "randomgenerator MessagesExtension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/asaflebovic/Desktop/Tryme/Cca/randomgenerator/randomgenerator%20MessagesExtension/MessagesViewController.swift"
+                  timestampString = "581956603.737887"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "106">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "randomgenerator_MessagesExtension.MessagesViewController.exitButton.modify : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "randomgenerator MessagesExtension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/asaflebovic/Desktop/Tryme/Cca/randomgenerator/randomgenerator%20MessagesExtension/MessagesViewController.swift"
+                  timestampString = "581956603.740127"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "69">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "randomgenerator_MessagesExtension.MessagesViewController.exitButton.modify : Swift.Optional&lt;__C.UIButton&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "randomgenerator MessagesExtension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/asaflebovic/Desktop/Tryme/Cca/randomgenerator/randomgenerator%20MessagesExtension/MessagesViewController.swift"
+                  timestampString = "581956603.743192"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "randomgenerator_MessagesExtension.MessagesViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; randomgenerator_MessagesExtension.MessagesViewController"
+                  moduleName = "randomgenerator MessagesExtension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/asaflebovic/Desktop/Tryme/Cca/randomgenerator/randomgenerator%20MessagesExtension/MessagesViewController.swift"
+                  timestampString = "581956603.750038"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "741">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "randomgenerator_MessagesExtension.MessagesViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;randomgenerator_MessagesExtension.MessagesViewController&gt;"
+                  moduleName = "randomgenerator MessagesExtension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/asaflebovic/Desktop/Tryme/Cca/randomgenerator/randomgenerator%20MessagesExtension/MessagesViewController.swift"
+                  timestampString = "581956603.753288"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "655">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "randomgenerator MessagesExtension/MessagesViewController.swift"
+            timestampString = "582000312.015712"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "randomgenerator_MessagesExtension.MessagesViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; randomgenerator_MessagesExtension.MessagesViewController"
+                  moduleName = "randomgenerator MessagesExtension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/asaflebovic/Desktop/Tryme/Cca/randomgenerator/randomgenerator%20MessagesExtension/MessagesViewController.swift"
+                  timestampString = "581993385.844023"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "randomgenerator_MessagesExtension.MessagesViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; randomgenerator_MessagesExtension.MessagesViewController"
+                  moduleName = "randomgenerator MessagesExtension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/asaflebovic/Desktop/Tryme/Cca/randomgenerator/randomgenerator%20MessagesExtension/MessagesViewController.swift"
+                  timestampString = "581993385.848346"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "217">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "randomgenerator_MessagesExtension.MessagesViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;randomgenerator_MessagesExtension.MessagesViewController&gt;"
+                  moduleName = "randomgenerator MessagesExtension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/asaflebovic/Desktop/Tryme/Cca/randomgenerator/randomgenerator%20MessagesExtension/MessagesViewController.swift"
+                  timestampString = "581993385.852966"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "randomgenerator_MessagesExtension.MessagesViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;randomgenerator_MessagesExtension.MessagesViewController&gt;"
+                  moduleName = "randomgenerator MessagesExtension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/asaflebovic/Desktop/Tryme/Cca/randomgenerator/randomgenerator%20MessagesExtension/MessagesViewController.swift"
+                  timestampString = "581993385.854984"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "137">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "randomgenerator_MessagesExtension.MessagesViewController.__deallocating_deinit"
+                  moduleName = "randomgenerator MessagesExtension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/asaflebovic/Desktop/Tryme/Cca/randomgenerator/randomgenerator%20MessagesExtension/MessagesViewController.swift"
+                  timestampString = "581993385.856694"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
